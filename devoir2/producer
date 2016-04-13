@@ -1,0 +1,14 @@
+
+package td2;
+
+/**
+ *
+ * @author Gabriela
+ */
+public class Producer extends Thread {
+    
+    @Override
+    public void run(){
+        
+    }
+}
